@@ -1,0 +1,41 @@
+/* General page styles */
+body {
+    background-color: light pink; /* Light pink background */
+    font-family: 'Arial', sans-serif;
+    color:light pink;
+    padding: 30px;
+    max-width: 800px;
+    margin: auto;
+}
+
+/* Heading styles */
+h1 {
+    color: pink; /* pink */
+    font-size: 3.5em;
+    margin-bottom: 20px;
+}
+
+/* Paragraph styles */
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Image styles */
+img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+/* Link styles */
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
